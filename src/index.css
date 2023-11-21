@@ -1,0 +1,14 @@
+.appContainer {
+    padding: 20px;
+}
+
+.btnContainer {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    margin-top: 10px;
+}
+
+.inputUrl {
+    width: 40%;
+}
